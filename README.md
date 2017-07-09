@@ -7,5 +7,4 @@ Depends on zprezto zsh framework.
 Replace the original theme located at:
 ~/.zprezto/modules/prompt/functions/prompt_paradox_setup
 
-
-
+![alt text](https://raw.githubusercontent.com/DevTony72/paradox-prompt-hg-support/master/screenshot.png)
